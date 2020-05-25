@@ -7,7 +7,7 @@ Comments.csv- The other file has text data of the complaint raised by the custom
 
 
 Tasks done in this project:
-Find out the total number of stemmed words produced by each 
+Find out the total number of stemmed words produced by each     
 Construct the term-document matrix
 
 Construct the TF-IDF matrix from the term-document matrix
