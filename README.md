@@ -3,13 +3,11 @@ Text analytics has been done for this semi supervised learning project to predic
 
 Dataset:
 Customers.csv - This file has structured data about customer's information related to his/her age, gender, marital status, car ownership, mobile plans, payment type etc
-
 Comments.csv- The other file has text data of the complaint raised by the customer.
 
+
 Tasks done in this project:
-
 Find out the total number of stemmed words produced by each 
-
 Construct the term-document matrix
 
 Construct the TF-IDF matrix from the term-document matrix
