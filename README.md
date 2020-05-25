@@ -1,8 +1,8 @@
 # Customer-Churn-Prediction
 Text analytics has been done for this semi supervised learning project to predict whether a mobile phone customer is going to churn or not.
 
-Dataset:
-Customers.csv - This file has structured data about customer's information related to his/her age, gender, marital status, car ownership, mobile plans, payment type etc
+Dataset:                   
+Customers.csv - This file has structured data about customer's information related to his/her age, gender, marital status, car ownership, mobile plans, payment type etc                                      
 Comments.csv- The other file has text data of the complaint raised by the customer.
 
 
